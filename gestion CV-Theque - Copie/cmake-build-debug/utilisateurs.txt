@@ -1,0 +1,2 @@
+1;khalil;baidouri;khalilbaidouri@gmail.com;Qwerty@123;0654324622;2025-06-14;admin
+3;hamza;hamza;hamzaaaitbahala@gmail.com;Qwerty@123;0655443322;2025-06-14;user

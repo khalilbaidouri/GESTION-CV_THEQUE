@@ -1,0 +1,5 @@
+1;Photographie;1
+2;Randonnée;1
+3;Lecture;2
+4;Jeux d'échecs;1
+5;voyage;3

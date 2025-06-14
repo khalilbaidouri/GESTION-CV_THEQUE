@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\hp\OneDrive - Ministere de l'education nationale, du préscolaire et des sports\Bureau\gestion CV-Theque - Copie" -B "C:\Users\hp\OneDrive - Ministere de l'education nationale, du préscolaire et des sports\Bureau\gestion CV-Theque - Copie\cmake-build-debug"
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/hp/OneDrive - Ministere de l'education nationale, du préscolaire et des sports/Bureau/gestion CV-Theque - Copie/cmake-build-debug
